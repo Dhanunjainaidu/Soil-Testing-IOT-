@@ -10,3 +10,8 @@ So, here we will use a JXCT Soil NPK Sensor to detect the soil nitrogen, phospho
 
 
 ![image](https://github.com/Dhanunjainaidu/Soil-Testing-IOT-/assets/133733524/6d396eb0-46f6-4637-92de-d0a7a1bf6d6f)
+
+#Required components
+
+![image](https://github.com/Dhanunjainaidu/Soil-Testing-IOT-/assets/133733524/57e3f203-dbc5-429e-92d2-dbdc1882473a)
+
